@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c" icon="Custom1.png">
+    <title>WeMos</title>
+    <instances>
+        <instance moduleIdRef="__spacer__" modelIndex="1902" path="Microcontroller">
+            <text>Microcontroller</text>
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_no_headers" modelIndex="5742" path="/Users/mike/.config/Fritzing/parts/user/WeMos-D1-mini-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_female_headers_above" modelIndex="5744" path="/Users/mike/.config/Fritzing/parts/user/WeMos-D1-mini-female-headers-above.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_above" modelIndex="5746" path="/Users/mike/.config/Fritzing/parts/user/WeMos-D1-mini-male-headers-above.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_below" modelIndex="5748" path="/Users/mike/.config/Fritzing/parts/user/WeMos-D1-mini-male-headers-below.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
