@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module fritzingVersion="0.9.0b" moduleId="WeMos_D1_mini_male_headers_below">
- <version>1</version>
+<module fritzingVersion="0.9.3b" moduleId="WeMos_D1_mini_male_headers_below">
+ <version>3</version>
  <author>Mike Causer</author>
  <title>WeMos D1 Mini</title>
  <label>WeMos D1 Mini</label>
- <date>Tue Feb 2 2016</date>
+ <date>Wed Dec 7 2016</date>
  <url>http://wemos.cc</url>
  <tags>
   <tag>Microcontroller</tag>
@@ -20,7 +20,7 @@
  <description>The D1 mini is a mini wifi board based on ESP-8266EX.</description>
  <views>
   <iconView>
-   <layers image="icon/WeMos-D1-mini-male-headers-below_icon.svg">
+   <layers image="breadboard/WeMos-D1-mini-male-headers-below_breadboard.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>

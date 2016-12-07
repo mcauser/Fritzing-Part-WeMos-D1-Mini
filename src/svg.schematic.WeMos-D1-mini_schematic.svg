@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny" x="0in" y="0in" width="1.3in" height="1.1in" viewBox="0 0 33.02 27.94">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0in" y="0in" viewBox="0 0 33.02 27.94" width="1.3in" height="1.1in">
 <g id="schematic">
 
 	<rect class="interior rect" x="5.23875" y="0.15875" width="22.5425" height="27.6225" fill="#FFFFFF" stroke="#000000" stroke-width="0.3175" stroke-linecap="round" />
 
 	<g font-family="'Droid Sans'" stroke="none" stroke-width="0" stroke-linecap="round">
-		<g id="pins" font-size="1.23472" fill="none">
-			<g id="pins-left" text-anchor="start">
+		<g class="pins" font-size="1.23472" fill="none">
+			<g class="pins-left" text-anchor="start">
 				<line id="connector0pin" x1="0.123472" y1="5.08" x2="5.20347" y2="5.08" stroke="#787878" stroke-width="0.246944" />
 				<text x="5.69736" y="5.3269" fill="#8c8c8c">RST</text>
 				<rect id="connector0terminal" x="-0.123472" y="4.9565" width="0.246944" height="0.246944" />
@@ -39,7 +39,7 @@
 				<text x="5.69736" y="23.1069" fill="#8c8c8c">3V3</text>
 				<rect id="connector7terminal" x="-0.123472" y="22.7365" width="0.246944" height="0.246944" />
 			</g>
-			<g id="right" text-anchor="end">
+			<g class="pins-right" text-anchor="end">
 				<line id="connector8pin" x1="27.8165" y1="22.86" x2="32.8965" y2="22.86" stroke="#787878" stroke-width="0.246944" />
 				<text x="27.3226" y="23.1069" fill="#8c8c8c">5V</text>
 				<rect id="connector8terminal" x="32.8965" y="22.7365" width="0.246944" height="0.246944" />
@@ -74,7 +74,9 @@
 			</g>
 		</g>
 
-		<text id="label" fill="#000000" font-size="1.49931" x="16.52" y="14" text-anchor="middle">WeMos D1 mini</text>
+		<g fill="#000000" font-size="1.49931" text-anchor="middle">
+			<text x="16.52" y="14">WeMos D1 mini</text>
+		</g>
 	</g>
 </g>
 </svg>

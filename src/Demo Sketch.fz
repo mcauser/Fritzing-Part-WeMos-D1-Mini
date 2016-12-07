@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon=".png">
+    <views>
+        <view name="breadboardView" backgroundColor="#ffffff" gridSize="0.1in" showGrid="1" alignToGrid="1" viewFromBelow="0"/>
+        <view name="schematicView" backgroundColor="#ffffff" gridSize="0.1in" showGrid="1" alignToGrid="1" viewFromBelow="0"/>
+        <view name="pcbView" backgroundColor="#333333" gridSize="0.05in" showGrid="1" alignToGrid="1" viewFromBelow="0"/>
+    </views>
+    <instances>
+        <instance moduleIdRef="WeMos_D1_mini_female_headers_above" modelIndex="5823" path="/Users/mike/Documents/Fritzing/parts/user/WeMos-D1-mini-female-headers-above.fzp">
+            <title>WeMos D1 Mini1</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.5" x="-166.854" y="-7.7499"/>
+                </breadboardView>
+                <schematicView layer="schematic">
+                    <geometry z="2.5" x="-98.9999" y="9.0001"/>
+                    <titleGeometry visible="true" x="-67.3638" y="-1.56283" z="6.5" xOffset="31.6361" yOffset="-10.5629" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                        <displayKey key="part number"/>
+                    </titleGeometry>
+                </schematicView>
+                <pcbView layer="copper0">
+                    <geometry z="5.5" x="206.646" y="-57.2499"/>
+                    <titleGeometry visible="true" x="220.714" y="-67.262" z="12.5" xOffset="14.0679" yOffset="-10.0121" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                    </titleGeometry>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_above" modelIndex="5826" path="/Users/mike/Documents/Fritzing/parts/user/WeMos-D1-mini-male-headers-above.fzp">
+            <title>WeMos D1 Mini2</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50001" x="-67.8543" y="-7.7499"/>
+                </breadboardView>
+                <schematicView layer="schematic">
+                    <geometry z="2.5" x="27.0001" y="9.0001"/>
+                    <titleGeometry visible="true" x="60.0323" y="-2.02819" z="6.50001" xOffset="33.0322" yOffset="-11.0283" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                        <displayKey key="part number"/>
+                    </titleGeometry>
+                </schematicView>
+                <pcbView layer="copper0">
+                    <geometry z="5.50001" x="305.646" y="-57.2499"/>
+                    <titleGeometry visible="true" x="318.04" y="-67.9313" z="12.5" xOffset="12.3946" yOffset="-10.6814" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                    </titleGeometry>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_no_headers" modelIndex="5832" path="/Users/mike/Documents/Fritzing/parts/user/WeMos-D1-mini-no-headers.fzp">
+            <title>WeMos D1 Mini4</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50003" x="130.146" y="-7.7499"/>
+                </breadboardView>
+                <schematicView layer="schematic">
+                    <geometry z="2.50002" x="279" y="9.0001"/>
+                    <titleGeometry visible="true" x="312.032" y="-3.42429" z="6.50003" xOffset="33.0322" yOffset="-12.4244" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                        <displayKey key="part number"/>
+                    </titleGeometry>
+                </schematicView>
+                <pcbView layer="copper0">
+                    <geometry z="5.50003" x="503.646" y="-57.2499"/>
+                    <titleGeometry visible="true" x="514.702" y="-68.266" z="12.5" xOffset="11.0559" yOffset="-11.0161" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                    </titleGeometry>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="WireModuleID" modelIndex="5835" path=":/resources/parts/core/wire.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WireModuleID" modelIndex="5837" path=":/resources/parts/core/wire.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_below" modelIndex="5842" path="/Users/mike/Documents/Fritzing/parts/user/WeMos-D1-mini-male-headers-below.fzp">
+            <title>WeMos D1 Mini3</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50005" x="31.1457" y="-7.7499"/>
+                </breadboardView>
+                <schematicView layer="schematic">
+                    <geometry z="2.50003" x="153" y="9.0001"/>
+                    <titleGeometry visible="true" x="185.769" y="-1.25746" z="6.50004" xOffset="32.7688" yOffset="-10.2576" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                        <displayKey key="part number"/>
+                    </titleGeometry>
+                </schematicView>
+                <pcbView layer="copper0">
+                    <geometry z="5.50004" x="404.646" y="-57.2499"/>
+                    <titleGeometry visible="true" x="416.371" y="-68.9354" z="12.5" xOffset="11.7252" yOffset="-11.6855" textColor="#000000" fontSize="5">
+                        <displayKey key=""/>
+                    </titleGeometry>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="newLogoImageModuleID" modelIndex="6084" path=":/resources/parts/core/newlogoimage.fzp">
+            <views>
+                <breadboardView layer="icon">
+                    <geometry z="0" x="-203.5" y="-104.35"/>
+                </breadboardView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6093" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="Female above"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="30.48"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg height=&quot;.13in&quot; width=&quot;1.2in&quot; viewBox=&quot;0 0 120 13&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;60&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;Female above&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT2</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50008" x="-174.5" y="-26.85"/>
+                </breadboardView>
+                <schematicView layer="">
+                    <geometry z="0" x="16.5" y="-77.85"/>
+                </schematicView>
+                <pcbView layer="icon">
+                    <geometry z="0" x="16.5" y="-77.85"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6096" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="Male above"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="25.4"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg height=&quot;.13in&quot; width=&quot;1in&quot; viewBox=&quot;0 0 100 13&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;50&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;Male above&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT3</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50009" x="-66.5" y="-26.85"/>
+                </breadboardView>
+                <schematicView layer="breadboardRuler">
+                    <geometry z="0" x="110.5" y="-80.35"/>
+                </schematicView>
+                <pcbView layer="">
+                    <geometry z="0" x="110.5" y="-80.35"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6099" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="Male below"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="25.4"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg height=&quot;.13in&quot; width=&quot;1in&quot; viewBox=&quot;0 0 100 13&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;50&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;Male below&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT4</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.5001" x="31.5" y="-26.85"/>
+                </breadboardView>
+                <schematicView layer="">
+                    <geometry z="0" x="238" y="-79.85"/>
+                </schematicView>
+                <pcbView layer="">
+                    <geometry z="0" x="238" y="-79.85"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6102" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="No headers"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="25.4"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg height=&quot;.13in&quot; width=&quot;1in&quot; viewBox=&quot;0 0 100 13&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;50&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;No headers&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT5</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50011" x="131" y="-26.85"/>
+                </breadboardView>
+                <schematicView layer="breadboardRuler">
+                    <geometry z="0" x="321.5" y="-74.35"/>
+                </schematicView>
+                <pcbView layer="">
+                    <geometry z="0" x="321.5" y="-74.35"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6107" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="no headers"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="25.4"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;0.13in&quot; width=&quot;1in&quot; viewBox=&quot;0 0 100 13&quot; &gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;50&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;no headers&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT7</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50011" x="11" y="84.15"/>
+                </breadboardView>
+                <schematicView layer="icon">
+                    <geometry z="0" x="321.5" y="-74.35"/>
+                </schematicView>
+                <pcbView layer="icon">
+                    <geometry z="0" x="321.5" y="-74.35"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6109" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="Header configurations"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="53.34"/>
+            <property name="height" value="3.302"/>
+            <property name="shape" value="&lt;svg height=&quot;.13in&quot; width=&quot;2.1in&quot; viewBox=&quot;0 0 210 13&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;105&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;Header configurations&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT8</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50012" x="-67.1857" y="-42.3764"/>
+                </breadboardView>
+                <schematicView layer="">
+                    <geometry z="0" x="184" y="-92.35"/>
+                </schematicView>
+                <pcbView layer="">
+                    <geometry z="0" x="184" y="-92.35"/>
+                </pcbView>
+            </views>
+        </instance>
+        <instance moduleIdRef="BreadboardLogoTextModuleID" modelIndex="6114" path=":/resources/parts/core/breadboardlogotext.fzp">
+            <property name="logo" value="WeMos D1 mini"/>
+            <property name="color" value="#787878"/>
+            <property name="width" value="70.000114"/>
+            <property name="height" value="7.0000114"/>
+            <property name="shape" value="&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;0.275591in&quot; width=&quot;2.75591in&quot; viewBox=&quot;0 0 130 13&quot; &gt;&#10; &lt;g id=&quot;breadboard&quot;&gt;&#10;  &lt;text id=&quot;label&quot; x=&quot;65&quot; y=&quot;9&quot; stroke-width=&quot;0&quot; font-size=&quot;10&quot; font-family=&quot;Droid Sans&quot; xml:space=&quot;preserve&quot; fill=&quot;#787878&quot; text-anchor=&quot;middle&quot;&gt;WeMos D1 mini&lt;/text&gt;&#10; &lt;/g&gt;&#10;&lt;/svg&gt;&#10;"/>
+            <property name="lastfilename" value=":/resources/parts/svg/core/breadboard/breadboardlogo.svg"/>
+            <title>TXT1</title>
+            <views>
+                <breadboardView layer="breadboard">
+                    <geometry z="2.50006" x="-96.032" y="-71.3405"/>
+                </breadboardView>
+            </views>
+        </instance>
+        <instance moduleIdRef="WireModuleID" modelIndex="6116" path=":/resources/parts/core/wire.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
